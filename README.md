@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mubarik1122
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React JS, Node JS.
+- 🌱 I’m currently learning React JS, Angular JS, Node JS.
 - 💞️ I’m looking forward for job in any Reputed Company.
 - 📫 Check my CV from here http://mubarikakbar-web-dev.000webhostapp.com
 
